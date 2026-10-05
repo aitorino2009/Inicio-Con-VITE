@@ -1,3 +1,4 @@
+// Punto de entrada de la aplicación
 import { Navbar } from './components/navbar.js';
 import { Section } from './components/section.js';
 const app = document.body;
